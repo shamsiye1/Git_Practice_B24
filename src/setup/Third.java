@@ -26,5 +26,9 @@ public class Third {
         System.out.println(result);
     }
 
+    public static void m(){
+
+
+    }
 
 }
