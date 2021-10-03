@@ -11,6 +11,12 @@ public class Second {
         System.out.println("just want to try overloading");
     }
 
+    public void m(String str){
+
+
+
+    }
+
 
 
 
