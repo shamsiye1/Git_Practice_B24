@@ -22,7 +22,7 @@ public class Third {
             }
         }
 
-
+  //  added my new method
         System.out.println(result);
     }
 
