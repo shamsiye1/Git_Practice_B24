@@ -13,7 +13,7 @@ public class Second {
 
     public void m(String str){
 
-
+        System.out.println("third method");
 
     }
 
