@@ -7,7 +7,8 @@ public class Third {
         String result="";
 
         for (int i=0; i<text.length();i++){
-            int count=0;
+            int count=1;
+            // it should be started count from 1
             for (int j=i+1; j<text.length(); j++){
 
                 if (text.charAt(j)==text.charAt(i)){
